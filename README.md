@@ -14,7 +14,7 @@
 - 💻 I build modern, responsive web interfaces using **HTML, CSS, JavaScript, React, and Next.js**.
 - 🚀 Currently learning **performance optimization** and **advanced TypeScript patterns**.
 - 🧠 Always learning and improving through real projects and modern tools.
-- 📍 Tools I enjoy working with: **Bootstrap, Tailwind CSS, GitHub**.
+- 📍 Tools I enjoy working with: **Bootstrap, Tailwind CSS, Material UI**.
 - 🔍 Problem-solving: Strong debugging skills.
 - 💬 Communication: Effective team collaboration.
 - 📝 Version Control: Git/GitHub proficiency.
