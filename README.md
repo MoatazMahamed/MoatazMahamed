@@ -15,6 +15,9 @@
 - 🚀 Currently learning **performance optimization** and **advanced TypeScript patterns**.
 - 🧠 Always learning and improving through real projects and modern tools.
 - 📍 Tools I enjoy working with: **Bootstrap, Tailwind CSS, GitHub**.
+- 🔍 Problem-solving: Strong debugging skills.
+- 💬 Communication: Effective team collaboration.
+- 📝 Version Control: Git/GitHub proficiency.
 
 ---
 
@@ -40,6 +43,13 @@
 **[moatazammar.vercel.app](https://moataz-ammar-portfolio.vercel.app/)**
 
 ---
+
+![](https://github-readme-stats.vercel.app/api?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sunil9813&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 
 ## 🎨 Creative Corner
 
